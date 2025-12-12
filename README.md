@@ -1,4 +1,4 @@
-# 🐾 Purrfect Match: Pet Adoption System 🐶🐱
+<img width="1919" height="943" alt="Screenshot 2025-12-10 160327" src="https://github.com/user-attachments/assets/4d0d49cd-d74e-417a-a2ee-a395d12a3508" /># 🐾 Purrfect Match: Pet Adoption System 🐶🐱
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Frontend](https://img.shields.io/badge/Frontend-React%20⚛️-61DAFB?logo=react)](https://reactjs.org/)
@@ -61,19 +61,22 @@ This project is built using a robust, scalable, and modern tech stack.
 
 A clean and focused entry point to the system.
 
-![Login Page](<img width="1919" height="943" alt="Screenshot 2025-12-10 160335" src="https://github.com/user-attachments/assets/b3b67fdc-193f-421d-9ba4-31a77092bb4e" />)
+<img width="1919" height="943" alt="Screenshot 2025-12-10 160335" src="https://github.com/user-attachments/assets/35a3d0d2-a6fe-426c-89fb-168038623e02" />
+
 
 ### 📝 Register Page
 
 Simple and quick registration to onboard new users.
 
-![Register Page](<img width="1919" height="943" alt="Screenshot 2025-12-10 160327" src="https://github.com/user-attachments/assets/4bf6c25e-edf2-4a71-8231-227ef8bce14d" />)
+<img width="1919" height="943" alt="Screenshot 2025-12-10 160327" src="https://github.com/user-attachments/assets/0406175c-6eaf-4b6f-8a00-92d3628bde7a" />
+
 
 ### 🏠 Landing Page
 
 Browse available pets with appealing photo cards and filtering options.
 
-![Landing Page](<img width="1905" height="945" alt="Screenshot 2025-12-10 160058" src="https://github.com/user-attachments/assets/5382f9de-6aaf-421a-ba40-97056be3c449" />)
+<img width="1905" height="945" alt="Screenshot 2025-12-10 160058" src="https://github.com/user-attachments/assets/70844352-5131-4749-b5b5-c7339ff1a878" />
+
 
 ---
 
