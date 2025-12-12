@@ -1,4 +1,4 @@
-# 🐾 Purrfect Match: Pet Adoption System 🐶
+# 🐾 Purrfect Match: Pet Adoption System 🐶🐱
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Frontend](https://img.shields.io/badge/Frontend-React%20⚛️-61DAFB?logo=react)](https://reactjs.org/)
