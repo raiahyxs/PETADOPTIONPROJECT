@@ -58,21 +58,22 @@ This project is built using a robust, scalable, and modern tech stack.
 
 ### 🔑 Login Page
 
+
 A clean and focused entry point to the system.
 
-![Login Page](https://github.com/user-attachments/assets/c0047cff-f8f8-46a3-be5c-dae7f1674185)
+![Login Page](<img width="1919" height="943" alt="Screenshot 2025-12-10 160335" src="https://github.com/user-attachments/assets/b3b67fdc-193f-421d-9ba4-31a77092bb4e" />)
 
 ### 📝 Register Page
 
 Simple and quick registration to onboard new users.
 
-![Register Page](https://github.com/user-attachments/assets/aee773b1-fdcf-4db6-bea0-d8d081e735dd)
+![Register Page](<img width="1919" height="943" alt="Screenshot 2025-12-10 160327" src="https://github.com/user-attachments/assets/4bf6c25e-edf2-4a71-8231-227ef8bce14d" />)
 
 ### 🏠 Landing Page
 
 Browse available pets with appealing photo cards and filtering options.
 
-![Landing Page](https://github.com/user-attachments/assets/ba2dfe24-4e6c-4c8a-93c7-66d161773a92)
+![Landing Page](<img width="1905" height="945" alt="Screenshot 2025-12-10 160058" src="https://github.com/user-attachments/assets/5382f9de-6aaf-421a-ba40-97056be3c449" />)
 
 ---
 
