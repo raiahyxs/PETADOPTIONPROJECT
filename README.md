@@ -1,4 +1,4 @@
-<img width="1919" height="943" alt="Screenshot 2025-12-10 160327" src="https://github.com/user-attachments/assets/4d0d49cd-d74e-417a-a2ee-a395d12a3508" /># 🐾 Purrfect Match: Pet Adoption System 🐶🐱
+# 🐾 Purrfect Match: Pet Adoption System 🐶🐱
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Frontend](https://img.shields.io/badge/Frontend-React%20⚛️-61DAFB?logo=react)](https://reactjs.org/)
