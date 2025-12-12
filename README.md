@@ -88,8 +88,6 @@ We love connecting with fellow developers and users. If you have questions, want
 | :--- | :--- | :--- | :--- |
 | **🚀 Project Lead / Developer** | Rhealyn / Group 1 | **vasquez.rhealyn.dll@gmail.com** | [https://github.com/raiahyxs](https://github.com/raiahyxs) |
 
-> **We are actively looking for collaborators to help us enhance the UI with more stunning animations!**
-
 ### **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
