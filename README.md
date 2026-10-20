@@ -86,7 +86,7 @@ We love connecting with fellow developers and users. If you have questions, want
 
 | Role | Name | Email | GitHub |
 | :--- | :--- | :--- | :--- |
-| **🚀 Project Lead / Developer** | Rhealyn / Group 1 | **vasquez.rhealyn.dll@gmail.com** | [https://github.com/raiahyxs](https://github.com/raiahyxs) |
+| **🚀 Project Lead / Developer** | Rhealyn | **vasquez.rhealyn.dll@gmail.com** | [https://github.com/raiahyxs](https://github.com/raiahyxs) |
 
 ### **License**
 
